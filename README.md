@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-css-flexbox-and-media-query-yw7Q8XNkEO)
+- Live Site URL: [Add live site URL here](https://msadawi1.github.io/Responsive-blog-preview-card-using-CSS-Flexbox-Media-Query/)
 
 ## My process
 
